@@ -1,0 +1,9 @@
+C:\Users\bivas\source\repos\A22 Ex04 Arad 206083586 Ido 308324094.sln\Ex04.Menus.Delegates\bin\Debug\Ex04.Menus.Delegates.dll.config
+C:\Users\bivas\source\repos\A22 Ex04 Arad 206083586 Ido 308324094.sln\Ex04.Menus.Delegates\bin\Debug\Ex04.Menus.Delegates.dll
+C:\Users\bivas\source\repos\A22 Ex04 Arad 206083586 Ido 308324094.sln\Ex04.Menus.Delegates\bin\Debug\Ex04.Menus.Delegates.pdb
+C:\Users\bivas\source\repos\A22 Ex04 Arad 206083586 Ido 308324094.sln\Ex04.Menus.Delegates\bin\Debug\Ex02.ConsoleUtils.dll
+C:\Users\bivas\source\repos\A22 Ex04 Arad 206083586 Ido 308324094.sln\Ex04.Menus.Delegates\obj\Debug\Ex04.Menus.Delegates.csproj.AssemblyReference.cache
+C:\Users\bivas\source\repos\A22 Ex04 Arad 206083586 Ido 308324094.sln\Ex04.Menus.Delegates\obj\Debug\Ex04.Menus.Delegates.csproj.CoreCompileInputs.cache
+C:\Users\bivas\source\repos\A22 Ex04 Arad 206083586 Ido 308324094.sln\Ex04.Menus.Delegates\obj\Debug\Ex04.Menus.Delegates.csproj.CopyComplete
+C:\Users\bivas\source\repos\A22 Ex04 Arad 206083586 Ido 308324094.sln\Ex04.Menus.Delegates\obj\Debug\Ex04.Menus.Delegates.dll
+C:\Users\bivas\source\repos\A22 Ex04 Arad 206083586 Ido 308324094.sln\Ex04.Menus.Delegates\obj\Debug\Ex04.Menus.Delegates.pdb
